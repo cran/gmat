@@ -1,0 +1,13 @@
+fa1be4266fd451067d0086de07a2d665 *DESCRIPTION
+40af6316a0848d8bdb49777152119720 *NAMESPACE
+2fa10d38fc6c1bf4037004ee5478e85e *R/functions.R
+e8e589da6a2e7d59e22740be8c26e522 *R/gmat.R
+9cdcb41bf89cc13012359d4c80be6a10 *README.md
+ed3ec525e6eef9e0e6e179794b1a6618 *inst/CITATION
+3d4d49f918828f3082a190db3cdce887 *man/gmat.Rd
+844d044b5e2acc65ae5b74bed838729d *man/rgmat.Rd
+15debfab72dc948e0ca5b3d36070211c *src/gmat_init.c
+ba049cba823d846d740968e79b2455a0 *src/gmn_sampling.c
+d9b16c7cb4d0643071dc50d9f533b4c2 *src/gmn_sampling.h
+b661d01d0551fbe7014d8847f2e11bcb *tests/testthat.R
+4707b45c14ca7cae90dd3b28fd3dc487 *tests/testthat/test_rgmat.R
