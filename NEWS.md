@@ -1,3 +1,16 @@
+# gmat 0.2.2
+Some meta updates (biblio and maintenance change) and minor fixes, detailed
+below.
+
+## Minor improvements and bug fixes
+* Now referencing functions from `stats` with `::`.
+* Zeros are now hard-coded instead of using zapsmall.
+* Fix codecov badge.
+* Now using .Call instead of .C, which was deprecated. `port()` fully moved 
+to C, with improved headers, error codes and memory management. Style now 
+following c99.
+* Use registration for C functions.
+
 # gmat 0.2.1
 
 This update of `gmat` incorporates functions necessary to run the experiments in

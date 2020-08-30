@@ -1,6 +1,8 @@
-#' gmat: Graphically constrained matrices.
+#' gmat
 #'
-#' @importFrom stats runif rnorm integrate
+#' @description Simulation of graphical correlation matrices
+#'
+#' @useDynLib gmat, .registration = TRUE
 #'
 #' @docType package
 #' @name gmat
